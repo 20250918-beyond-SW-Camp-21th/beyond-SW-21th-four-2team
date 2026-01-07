@@ -1,6 +1,5 @@
 package com.aespa.armageddon.infra.security;
 
-import com.guincard.penghyunsuk.infra.util.JwtTokenProvider;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
