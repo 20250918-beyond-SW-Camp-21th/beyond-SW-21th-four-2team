@@ -711,27 +711,46 @@ pipeline {
 <details>
 <summary>🤖 젠킨스 빌드</summary>
 
+<details>
+<summary>🔽 프론트 스테이지 뷰</summary>
 
 <img width="2604" height="1716" alt="Image" src="https://github.com/user-attachments/assets/cd5d79d7-dc0a-4635-9f38-35b339a4b593" />
-- 프론트 스테이지 뷰
+
+</details>
+
+<details>
+<summary>🔽 백엔드 스테이지 뷰</summary>
 
 <img width="2632" height="1728" alt="Image" src="https://github.com/user-attachments/assets/0d7f4c99-9452-4c33-87e9-f9c9661ee6fb" />
-- 백엔드 스테이지 뷰
+
+</details>
+
 </details>
 
 
 <details>
 <summary>🐙 ArgoCD</summary>
 
+<details>
+<summary>🔽 백엔드</summary>
 
 <img width="3420" height="1904" alt="Image" src="https://github.com/user-attachments/assets/2460bfe9-76ac-495a-bbda-779f9b61938b" />
-- 벡엔드
+
+</details>
+<details>
+<summary>🔽 프론트</summary>
 
 <img width="3420" height="1904" alt="Image" src="https://github.com/user-attachments/assets/96eb1783-fab2-43f4-b79b-d5440d5e08b4" />
-- 프론트
+
+</details>
+
+<details>
+<summary>🔽 인그레스</summary>
 
 <img width="3420" height="1904" alt="Image" src="https://github.com/user-attachments/assets/e5dca216-cb12-4d90-a397-2d513a3701d3" />
-- 인그레스
+
+</details>
+
 </details>
 
 ---
