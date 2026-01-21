@@ -204,7 +204,7 @@ RESTful API 기반의 데이터 처리와 통계 기능을 중심으로 실제 �
 <a id="front"></a>
 ## 🪄 Front
 
-- <strong>🎨 Figma 디자인</strong>
+<strong>🎨 Figma 디자인</strong>
 
 ![](https://github.com/user-attachments/assets/c56e3ba2-d48c-4333-a503-d8e44e2d3466)
 
