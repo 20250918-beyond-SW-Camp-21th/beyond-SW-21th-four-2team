@@ -73,7 +73,7 @@
 
 [**🛠️ 주요 기능**](#-주요-기능)
 
-[**🙆‍♀️ 요구사항 명세서**](#-요구사항-명세서)
+[**🙆‍♀️ 요구사항 명세서**](#requirements)
 
 [**🗃️ DB 모델링**](#️-DB-모델링)
 
@@ -186,7 +186,7 @@ RESTful API 기반의 데이터 처리와 통계 기능을 중심으로 실제 �
 - 민감 정보 보호를 위한 보안 처리
 ---
 
-
+<a id="requirements"></a>
 ## 🙆‍♀️ 요구사항 명세서
 
 🔗 [요구사항 명세서 바로가기](https://docs.google.com/spreadsheets/d/19fcCvf_RBPsi3SHrbzBPv5YCX_Xa1ADosNkr2ZD8Vic/edit?gid=0#gid=0)
