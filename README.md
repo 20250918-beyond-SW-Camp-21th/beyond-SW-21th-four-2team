@@ -201,15 +201,15 @@ RESTful API 기반의 데이터 처리와 통계 기능을 중심으로 실제 �
 ![](https://github.com/user-attachments/assets/ad5af0e7-a1d1-4088-866d-546faa612cec)
 
 ---
+<a id="front"></a>
+## 🪄 Front
 
-## 🪄 Figma
-
-🔗 [Figma 디자인]
+- <strong>🎨 Figma 디자인</strong>
 
 ![](https://github.com/user-attachments/assets/c56e3ba2-d48c-4333-a503-d8e44e2d3466)
 
 <details>
-<summary><strong> 프론트엔드 화면 미리보기</strong></summary>
+<summary><strong>🧩 프론트엔드 화면 미리보기</strong></summary>
 
 <details>
 <summary> 회원가입</summary>
@@ -332,6 +332,7 @@ RESTful API 기반의 데이터 처리와 통계 기능을 중심으로 실제 �
 
 </details>
 
+---
 <a id="workflow"></a>
 ## 🛜 CI/CD 워크플로우
 
@@ -342,7 +343,7 @@ RESTful API 기반의 데이터 처리와 통계 기능을 중심으로 실제 �
 
 </details>
 
-
+---
 ## 🚩 젠킨스 파이프라인 파일 스크립트 코드
 
 <details>
@@ -703,168 +704,48 @@ pipeline {
   ```
 </details>
 
+---
+
 ## 📱 CI/CD 테스트
 
-## 젠킨스 
-- git hub push 이벤트(webhook)을 통해 소스 자동 빌드
-- docker file 생성 및 docker Hub push
-- 매니 페스트 수정 후 git hub push
-<img width="1834" height="1488" alt="image" src="https://github.com/user-attachments/assets/a7a43855-cece-405d-a418-180c12eda0fe" />
+<details>
+<summary>🤖 젠킨스 빌드</summary>
 
 
-## ArgoCD
-- git hub repository와 연결 하여 manifest와의 싱크를 맞춰 k8s 클러스터를 생성
-  <img width="1397" height="299" alt="image" src="https://github.com/user-attachments/assets/0487365f-e533-4101-91d6-286f0f51b799" />
+<img width="2604" height="1716" alt="Image" src="https://github.com/user-attachments/assets/cd5d79d7-dc0a-4635-9f38-35b339a4b593" />
+- 프론트 스테이지 뷰
+
+<img width="2632" height="1728" alt="Image" src="https://github.com/user-attachments/assets/0d7f4c99-9452-4c33-87e9-f9c9661ee6fb" />
+- 백엔드 스테이지 뷰
+</details>
 
 
----
-
-## 😊 개인 회고록
-
-**🍪 개인 회고록 - 이건우**
-
-**이번 프로젝트에서 맡은 역할**
-
-- 요기다 적어주숑
-- 
-
-**잘한 점**
-
-- 요기다가
-- 
-
-**아쉬운 점**
-
-- 
-- 
+<details>
+<summary>🐙 ArgoCD</summary>
 
 
-**배운 점**
+<img width="3420" height="1904" alt="Image" src="https://github.com/user-attachments/assets/2460bfe9-76ac-495a-bbda-779f9b61938b" />
+- 벡엔드
 
-- 
+<img width="3420" height="1904" alt="Image" src="https://github.com/user-attachments/assets/96eb1783-fab2-43f4-b79b-d5440d5e08b4" />
+- 프론트
 
-
-**다음 프로젝트에 적용하고 싶은 점**
-
-- D
+<img width="3420" height="1904" alt="Image" src="https://github.com/user-attachments/assets/e5dca216-cb12-4d90-a397-2d513a3701d3" />
+- 인그레스
+</details>
 
 ---
 
-**🍪 개인 회고록 - 이건우**
+## 🍪 개인 회고록
 
-**이번 프로젝트에서 맡은 역할**
+| 이름 | 담당 역할 | 잘한 점 | 어려웠던 점 | 느낀 점 / 배운 점 |
+|------|----------|------------|----------------|----------------------|
+| 김수진 |          |            |                |                      |
+| 이건우 |          |            |                |                      |
+| 이경민 |          |            |                |                      |
+| 이하경 |          |            |                |                      |
+| 정하경 |          |            |                |                      |
 
-- 요기다 적어주숑
-- 
-
-**잘한 점**
-
-- 요기다가
-- 
-
-**아쉬운 점**
-
-- 
-- 
-
-
-**배운 점**
-
-- 
-
-
-**다음 프로젝트에 적용하고 싶은 점**
-
-- D
-
----
-
-**🍪 개인 회고록 - 이건우**
-
-**이번 프로젝트에서 맡은 역할**
-
-- 요기다 적어주숑
-- 
-
-**잘한 점**
-
-- 요기다가
-- 
-
-**아쉬운 점**
-
-- 
-- 
-
-
-**배운 점**
-
-- 
-
-
-**다음 프로젝트에 적용하고 싶은 점**
-
-- D
-
----
-
-**🍪 개인 회고록 - 이건우**
-
-**이번 프로젝트에서 맡은 역할**
-
-- 요기다 적어주숑
-- 
-
-**잘한 점**
-
-- 요기다가
-- 
-
-**아쉬운 점**
-
-- 
-- 
-
-
-**배운 점**
-
-- 
-
-
-**다음 프로젝트에 적용하고 싶은 점**
-
-- D
-
----
-
-**🍪 개인 회고록 - 이건우**
-
-**이번 프로젝트에서 맡은 역할**
-
-- 요기다 적어주숑
-- 
-
-**잘한 점**
-
-- 요기다가
-- 
-
-**아쉬운 점**
-
-- 
-- 
-
-
-**배운 점**
-
-- 
-
-
-**다음 프로젝트에 적용하고 싶은 점**
-
-- D
-
----
 
 
 
